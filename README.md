@@ -27,7 +27,7 @@ Feature design is integral to the success of reinforcement learning algorithms. 
    ```
 3. Run the lab scripts:
    ```bash
-   python main.py
+   jupyter notebook
    ```
 
 ## Requirements
